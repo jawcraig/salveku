@@ -1,0 +1,14 @@
+{
+  "name": "salveku",
+  "version": "0.0.1",
+  "description": "Image-based sudoku solver",
+  "main": "js/utils/build9.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jawcraig (jawcraig+github@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^17.0.3"
+  }
+}
