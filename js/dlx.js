@@ -15,7 +15,7 @@ class Col {
     }
 };
 
-var root = Col( /* where l=r=root*/ );
+var root = new Col( /* where l=r=root*/ );
 
 class Cell {
     constructor(l, r, u, d, col) {
