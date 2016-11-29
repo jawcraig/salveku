@@ -10,6 +10,7 @@ var myImage = new Image();
 
 function imageLoaded() {
     drawResult(myImage, myContext);
+    preprocess(myContext);
 }
 
 function salveku(event) {
